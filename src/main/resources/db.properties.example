@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/movie_ticket_management
+db.username=YOUR_DB_USERNAME
+db.password=YOUR_DB_PASSWORD
